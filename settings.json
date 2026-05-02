@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "friends-I4B5.aternos.me:18974",
+    "ip": "friends-I4B5.aternos.me",
     "port": 18974,
     "version": "",
     "try-creative": false
